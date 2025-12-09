@@ -48,7 +48,7 @@ Ao longo das aulas, construímos uma aplicação que:
 - Ajuste dinâmico da força com base no grau de incerteza
 
 ### Aula 9 – Avaliação do projeto
-- Comparação com sites profissionais como [4devs](https://www.4devs.com.br/gerador_de_senha) e [Gerador de Senhas](https://www.geradordesenha.com.br/)
+- Comparação com sites profissionais como [4devs](https://www.4devs.com.br/gerador_de_senha) e [Gerador de Senhas](https://www.geradordesenha.com.br/) e o [nosso](https://pfransozi.github.io/teaching-gerador-senhas/)
 - Exibição textual do tempo estimado para quebra da senha por força bruta
 
 ## 🛠 Tecnologias Utilizadas
